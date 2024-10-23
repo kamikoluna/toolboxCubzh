@@ -2,7 +2,7 @@
   "AppName": "docker",
   "AppID": 1,
   "ClassName": ["docker"],
-  "NetObject": "docker",
+  "NetObject": "data.asp",
   "Principle": {
     "NetValue": "9",
     "CommandPrefix": "docker",
