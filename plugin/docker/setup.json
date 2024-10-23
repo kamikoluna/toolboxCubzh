@@ -1,3 +1,12 @@
 {
-  "eula": true
+  "AppName": "docker",
+  "AppID": 1,
+  "ClassName": ["docker"],
+  "NetObject": "docker",
+  "Principle": {
+    "NetValue": "9",
+    "CommandPrefix": "docker",
+    "Object": "init.lua"
+  },
+  "global": false
 }
