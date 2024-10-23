@@ -1,0 +1,12 @@
+{
+  "AppName": "Xenon",
+  "AppID": "xenon",
+  "ClassName": ["xenon"],
+  "NetObject": "data.asp",
+  "Principle": {
+    "NetValue": "5",
+    "CommandPrefix": "xenon",
+    "Object": "init.lua"
+  },
+  "global": "true"
+}
