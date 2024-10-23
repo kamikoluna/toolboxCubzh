@@ -1,0 +1,2 @@
+:register(setup.json)
+
